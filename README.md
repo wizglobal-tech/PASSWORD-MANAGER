@@ -1,5 +1,5 @@
-# 🗝️ Python Password Manager
-
+  # 🗝️ Python Password Manager
+  
 A secure, user-friendly password manager built with **Streamlit** and **Python** that protects your credentials.
 
 ---
