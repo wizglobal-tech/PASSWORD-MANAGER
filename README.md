@@ -26,16 +26,18 @@ A secure, user-friendly password manager built with **Streamlit** and **Python**
 ## Installation ⚙
 1. Clone repository:
 bash
+
 git clone https://github.com/wizglobal-tech/PASSWORD-MANAGER
 cd PASSWORD-MANAGER
 
 3. Install dependencies:
 bash
+
 pip install streamlit 
 
-
-4. Run the application:
+5. Run the application:
 bash
+
 streamlit run password_manager.py
 
 ## File Structure
