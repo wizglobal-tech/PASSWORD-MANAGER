@@ -5,11 +5,11 @@
 A secure, user-friendly password manager built with **Streamlit** and **Python** that protects your credentials.
 
 ## 💡 Features
-. User authentication system
-. Fernet encryption
-. scrypt password hashing
-. SQLite database storage
-. Simple web interface
+- User authentication system
+- Fernet encryption
+- scrypt password hashing
+- SQLite database storage
+- Simple web interface
 
 # 📸 Screenshots
 ![Screenshot (2)](https://github.com/user-attachments/assets/62424770-1ac2-425e-9173-189340150793)
@@ -18,9 +18,9 @@ A secure, user-friendly password manager built with **Streamlit** and **Python**
 - *Frontend*: Streamlit
 - *backend*: Python 3
 **Libraries**:
-  - random & string for password generation
-  - streamlit for UI
-  - JSON for local data storage (easily swappable for database)
+ - random & string for password generation
+ - streamlit for UI
+ - JSON for local data storage (easily swappable for database)
 
 
 ## Installation ⚙
